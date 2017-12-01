@@ -1,1 +1,6 @@
-- "Stats.*"
+- "NodeEditor.Event.Init"
+- "LunaStudio.Welcome.Open"
+- "LunaStudio.Project.Open"
+- "LunaStudio.Error"
+- "Performance.FPS.*"
+- "LunaStudio.Guide.Step"
